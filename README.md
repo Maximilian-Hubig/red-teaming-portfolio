@@ -93,7 +93,7 @@ Both modes can be combined: Select policy category → test comparatively across
 
 ## Contact
 
-- GitHub: [@yMaximilian-Hubig](https://github.com/Maximilian-Hubig)
+- GitHub: [@Maximilian-Hubig](https://github.com/Maximilian-Hubig)
 
 ---
 
